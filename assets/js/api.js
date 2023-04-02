@@ -3,6 +3,7 @@
 const api_key = '7bb7c731dd4467bce53bf9a1eb0ff2a4';
 
 /**
+ * JSDoc
 * Fetch data from server
 * @param {string} URL API url
 * @param {Function} callback callback
